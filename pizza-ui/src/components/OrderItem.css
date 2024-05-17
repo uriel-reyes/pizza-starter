@@ -7,3 +7,7 @@
     border-radius: 8px;
   }
   
+  .order-container.active {
+    background-color: #f0f0f0; /* Example: Light grey background for active orders */
+  }
+  
